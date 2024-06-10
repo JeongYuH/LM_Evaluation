@@ -1,0 +1,6 @@
+os
+langchain
+lanchain.core
+langchain_openai
+dotenv_python
+numpy
